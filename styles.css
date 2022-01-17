@@ -1,0 +1,61 @@
+body {
+  background-color: rgb(13, 14, 14);
+}
+
+h1 {
+  font-family: verdana;
+  font-size: 23px;
+}
+
+h2 {
+  font-size: 23px;
+  font-family: verdana;
+}
+
+button {
+  border-radius: 5px;
+  background-color: limegreen;
+  border: 0;
+  width: 90px;
+  height: 35px;
+  color: white;
+  padding: 5px;
+}
+.container {
+  background-color: rgb(255, 255, 255);
+  width: 1000px;
+  margin: auto;
+}
+
+img {
+  border-radius: 50%;
+  width: 200px;
+}
+
+.header {
+  background-color: rgb(27, 10, 255);
+  color: white;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  text-align: center;
+}
+
+.content {
+  padding-top: 3%;
+  padding-bottom: 3%;
+  padding: 20px;
+  display: flex;
+}
+
+.text {
+  width: 650;
+  color: rgb(8, 8, 8);
+}
+
+.footer {
+  text-align: center;
+  padding-bottom: 3%;
+  padding-top: 3%;
+  background-color: rgb(27, 10, 255);
+  color: rgb(255, 255, 255);
+}
